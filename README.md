@@ -1,4 +1,5 @@
 # Bongo-Cat-Game
+<hr>
 
 An assignment to create a single web page with an interactivecute cat playing bongo.
 
